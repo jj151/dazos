@@ -23,6 +23,6 @@ $ git clone https://github.com/gunthercox/ChatterBot.git
 $ sudo pip3 install ./ChatterBot
 ```
 #### Links
-[ChatterBot 0.8.4 - Package Index](https://pypi.python.org/pypi/ChatterBot)<br>
-[ChatterBot 0.8.4 Documentation](https://chatterbot.readthedocs.io/en/stable/)<br>
+[ChatterBot 0.8.4 - Python Package Index](https://pypi.python.org/pypi/ChatterBot)<br>
+[ChatterBot 0.8.4 - Documentation](https://chatterbot.readthedocs.io/en/stable/)<br>
 [A multilingual dialog corpus](https://github.com/gunthercox/chatterbot-corpus)
