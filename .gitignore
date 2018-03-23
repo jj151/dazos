@@ -10,10 +10,10 @@ var/
 wheels/
 
 # IDE
-*.idea/
+.idea/
 
 # DB
-*db.sqlite3
+db.sqlite3
 
 # Installer logs
 pip-log.txt
