@@ -7,3 +7,10 @@ A simple chatbot application using Chatterbot library.  :sunglasses:
 ### Requirements
 + ##### ChatterBot [https://github.com/gunthercox/ChatterBot.git]
 
+### Installation
+The recommended method for installing ChatterBot is by using `pip`.
+### Installing from `PyPi`
+```bash
+$ sudo pip3 install chatterbot
+```
+
